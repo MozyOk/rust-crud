@@ -1,0 +1,9 @@
+[package]
+name = "rust-book"
+version = "0.1.0"
+authors = ["Masahito Okubo 'Mozy' <mozy.okubo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.0"
+rocket_codegen = "0.4.0"
